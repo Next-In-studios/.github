@@ -1,4 +1,4 @@
-# Hi 👋, We are Next In Studio
+# Hi 👋, We are Event Rio
 
 
 [![GitHub Next In Studio](https://img.shields.io/github/followers/Next-In-studios?label=follow&style=for-the-badge)](https://github.com/Next-In-studios)
