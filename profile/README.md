@@ -2,7 +2,7 @@
 
 
 [![GitHub Next In Studio](https://img.shields.io/github/followers/Next-In-studios?label=follow&style=for-the-badge)](https://github.com/Next-In-studios)
-[![Linkedin: Manthan Khandale](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/next-in-studio)](https://www.linkedin.com/company/next-in-studio)
+[![Linkedin: Manthan Khandale](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrikrushana-pingale-ba4719153/)](https://www.linkedin.com/in/shrikrushana-pingale-ba4719153/)
 
 Here are some ideas to get you started:
 
